@@ -1,4 +1,4 @@
 screen-capture
 ==============
 
-Simple Googl Chrome extension that enables the use of Desktop Capture API
+Simple Google Chrome extension that uses Desktop Capture API..
