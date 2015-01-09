@@ -19,6 +19,8 @@ var message = {
 		type: 'get',
 	}
 };
+
+window.postMessage(message, '*');
 ```
 
 Then use the media source id received from the extension to access the media stream.
